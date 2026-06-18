@@ -216,7 +216,7 @@ Through this project, the following concepts were implemented and strengthened:
 
 **Shrey Srivastava**
 
-B.Tech CSE Student | C++ Developer | Problem Solver
+B.Tech CSE Student | C++  | Problem Solver
 
 GitHub: https://github.com/shreyiii
 
