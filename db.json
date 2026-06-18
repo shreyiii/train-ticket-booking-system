@@ -1,0 +1,18 @@
+[
+    {
+        "trainId": "T101",
+        "name": "Rajdhani Express",
+        "source": "Delhi",
+        "destination": "lucknow",
+        "time": "10:00",
+        "seats": [
+            [
+                {
+                    "userId": "U101",
+                    "name": "Shrey",
+                    "aadharCard": "123456789012"
+                }
+            ]
+        ]
+    }
+]
